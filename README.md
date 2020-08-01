@@ -4,6 +4,8 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nmodem2k)](https://github.com/nmodem2k/github-readme-stats)
+
+![Modem's github stats](https://github-readme-stats.vercel.app/api?username=nmodem2k&show_icons=true&theme=radical)
 <!--
 **nmodem2k/nmodem2k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
