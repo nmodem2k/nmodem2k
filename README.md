@@ -1,5 +1,6 @@
 # Hi I'm Modem Naveen 👋
 
+![](https://komarev.com/ghpvc/?username=nmodem2k)
 <!--
 **nmodem2k/nmodem2k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
